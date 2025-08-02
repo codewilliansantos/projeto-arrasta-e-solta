@@ -26,10 +26,8 @@ O objetivo deste projeto foi praticar a lógica de eventos do JavaScript, especi
 ```bash
 git clone https://github.com/codewilliansantos/projeto-arrasta-e-solta.git
 
-![preview](preview.gif)
+<img width="465" height="436" alt="image" src="https://github.com/user-attachments/assets/6eddaaf3-21bc-4b5e-93d6-bc4338b3bf7a" />
 
-
-![preview](preview.gif)
 
 🤝 Contribuições
 Este projeto foi feito como parte do meu aprendizado, mas se você tiver sugestões ou quiser colaborar, fique à vontade para abrir um pull request!
